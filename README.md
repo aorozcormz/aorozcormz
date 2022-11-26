@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @aorozcormz
+- 👀 I’m interested in web development
